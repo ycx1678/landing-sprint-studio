@@ -1,0 +1,18 @@
+category,title,snippet
+positive_review,Thank specific detail,"Thanks so much, [Name]. We are glad you enjoyed [specific detail]. We would love to welcome you back soon."
+positive_review,Team appreciation,"Thank you for taking the time to leave this. The team will be happy to hear that [specific detail] stood out."
+neutral_review,Balanced response,"Thank you for visiting and for the honest feedback. We are glad [positive detail] worked and will review [improvement area]."
+negative_review,Direct follow-up,"Thank you for letting us know. We are sorry this was your experience. Please contact us at [contact] so we can understand what happened and help."
+negative_review,Private details,"Thank you for the feedback. We want to handle this carefully, so please contact us directly rather than sharing private details here."
+dm,Availability,"Hi [Name], thanks for your interest. The starting price is [price], and the next available time is [time/date]."
+dm,Need detail,"Thanks for messaging us. Could you share [needed detail] so we can point you to the best option?"
+booking,Confirmed,"Your booking is confirmed for [date/time]. Please arrive [minutes] early and contact us if anything changes."
+booking,Reschedule,"We can reschedule you to [option 1] or [option 2]. Which works better?"
+pricing,Starting price,"Our current price for [service/product] starts at [price]. Final pricing depends on [factor]."
+complaint,Checking,"Thank you for telling us directly. We are checking with the team and will follow up by [timeframe]."
+complaint,Mistake,"We made a mistake here, and I am sorry. We will [specific action] by [time/date]."
+refund,Policy,"Thanks for reaching out. Our policy is [short policy]. Based on your situation, the next step is [step]."
+follow_up,Review ask,"We would love your feedback. If you have a minute, you can leave a review here: [link]."
+korean,Positive,"안녕하세요, [Name]님. 소중한 후기 남겨주셔서 감사합니다. [구체적 내용]을 좋게 봐주셔서 팀 모두에게 큰 힘이 됩니다."
+korean,Complaint,"불편을 드려 죄송합니다. 말씀해주신 내용을 확인할 수 있도록 [연락처]로 방문/주문 정보를 보내주시면 빠르게 살펴보겠습니다."
+

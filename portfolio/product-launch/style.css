@@ -1,0 +1,170 @@
+:root {
+  --ink: #111514;
+  --paper: #f7f1e4;
+  --blue: #2f6f9f;
+  --lime: #c6d66f;
+  --coral: #e56f55;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Avenir Next, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 92vh;
+  border-bottom: 1px solid var(--ink);
+}
+
+.copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(34px, 6vw, 86px);
+}
+
+.copy p {
+  width: fit-content;
+  margin: 0 0 20px;
+  padding: 8px 12px;
+  border: 1px solid var(--ink);
+  background: var(--lime);
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-family: Georgia, serif;
+  line-height: 0.94;
+  letter-spacing: 0;
+}
+
+h1 {
+  max-width: 720px;
+  font-size: clamp(52px, 8vw, 116px);
+}
+
+.copy span {
+  max-width: 540px;
+  margin: 24px 0;
+  color: #4e5754;
+  font-size: 22px;
+  line-height: 1.45;
+}
+
+.copy a {
+  width: fit-content;
+  min-height: 48px;
+  padding: 13px 18px;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  text-decoration: none;
+  font-weight: 900;
+}
+
+.object {
+  display: grid;
+  place-items: center;
+  padding: clamp(34px, 6vw, 86px);
+  background: var(--blue);
+}
+
+.device {
+  width: min(74vw, 520px);
+  aspect-ratio: 0.72;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  box-shadow: 18px 18px 0 var(--ink);
+  padding: 26px;
+}
+
+.device div {
+  margin-bottom: 22px;
+  border: 1px solid var(--ink);
+}
+
+.device div:nth-child(1) {
+  height: 44%;
+  background: var(--coral);
+}
+
+.device div:nth-child(2) {
+  height: 18%;
+  background: var(--lime);
+}
+
+.device div:nth-child(3) {
+  height: 24%;
+  background: var(--ink);
+}
+
+.proof {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-bottom: 1px solid var(--ink);
+}
+
+.proof div {
+  min-height: 170px;
+  padding: 28px;
+  border-right: 1px solid var(--ink);
+}
+
+.proof div:last-child {
+  border-right: 0;
+}
+
+.proof strong {
+  display: block;
+  font-family: Georgia, serif;
+  font-size: clamp(36px, 5vw, 72px);
+}
+
+.proof span {
+  font-weight: 800;
+}
+
+.details {
+  padding: clamp(52px, 8vw, 112px) clamp(18px, 6vw, 86px);
+}
+
+.details h2 {
+  max-width: 900px;
+  font-size: clamp(38px, 6vw, 86px);
+}
+
+.details p {
+  max-width: 620px;
+  color: #4e5754;
+  font-size: 22px;
+  line-height: 1.45;
+}
+
+@media (max-width: 860px) {
+  .hero,
+  .proof {
+    grid-template-columns: 1fr;
+  }
+
+  .object {
+    min-height: 520px;
+  }
+
+  .proof div {
+    border-right: 0;
+    border-bottom: 1px solid var(--ink);
+  }
+}
+

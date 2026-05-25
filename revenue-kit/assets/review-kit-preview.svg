@@ -1,0 +1,27 @@
+<svg width="1200" height="820" viewBox="0 0 1200 820" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="820" fill="#F2EEE5"/>
+  <rect x="68" y="58" width="1064" height="704" rx="28" fill="#161616"/>
+  <rect x="108" y="104" width="102" height="16" rx="8" fill="#F4C95D"/>
+  <rect x="228" y="104" width="60" height="16" rx="8" fill="#E8E0D0"/>
+  <rect x="306" y="104" width="78" height="16" rx="8" fill="#E8E0D0"/>
+  <text x="108" y="210" fill="#F8F2E7" font-family="Georgia, serif" font-size="58" font-weight="700">AI Review &amp; DM Reply Kit</text>
+  <text x="110" y="262" fill="#C9C0B0" font-family="Helvetica, Arial, sans-serif" font-size="24">Fast, calm customer replies for small businesses.</text>
+  <rect x="108" y="326" width="440" height="310" rx="18" fill="#F8F2E7"/>
+  <rect x="132" y="356" width="118" height="20" rx="10" fill="#2C7A6B"/>
+  <rect x="132" y="402" width="360" height="14" rx="7" fill="#A89C8A"/>
+  <rect x="132" y="432" width="318" height="14" rx="7" fill="#A89C8A"/>
+  <rect x="132" y="462" width="382" height="14" rx="7" fill="#A89C8A"/>
+  <rect x="132" y="524" width="166" height="44" rx="22" fill="#D9534F"/>
+  <text x="154" y="553" fill="#FFF8EF" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Complaint</text>
+  <rect x="316" y="524" width="150" height="44" rx="22" fill="#F4C95D"/>
+  <text x="342" y="553" fill="#161616" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Review</text>
+  <rect x="610" y="326" width="430" height="72" rx="18" fill="#2C7A6B"/>
+  <text x="638" y="371" fill="#FFF8EF" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="700">88 reply templates</text>
+  <rect x="610" y="426" width="430" height="72" rx="18" fill="#E8E0D0"/>
+  <text x="638" y="471" fill="#161616" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="700">AI prompt recipes</text>
+  <rect x="610" y="526" width="430" height="72" rx="18" fill="#F4C95D"/>
+  <text x="638" y="571" fill="#161616" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="700">CSV snippet library</text>
+  <rect x="610" y="626" width="430" height="72" rx="18" fill="#D9534F"/>
+  <text x="638" y="671" fill="#FFF8EF" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="700">Korean + English starters</text>
+</svg>
+
