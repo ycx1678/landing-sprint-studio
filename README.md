@@ -7,10 +7,12 @@ Fast, focused landing pages for small businesses, creators, consultants, and pro
 - Main offer: https://ycx1678.github.io/landing-sprint-studio/
 - Salon booking demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
 - Product launch demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+- $49 audit offer: https://ycx1678.github.io/landing-sprint-studio/services/landing-page-audit/
 - Digital product page: https://ycx1678.github.io/landing-sprint-studio/products/ai-review-dm-kit/
 
 ## Packages
 
+- Quick Audit: $49 for one existing landing page, written scorecard, and 5 priority fixes.
 - Starter: $249 for one responsive landing page, up to 5 sections, one revision.
 - Standard: $499 with copy polish, up to 7 sections, and two revisions.
 - Priority: $799 with faster delivery, alternate hero, and thank-you page.
