@@ -10,6 +10,8 @@ Send these questions after a prospect shows interest.
 6. Do you need the page delivered as files, published to hosting, or added to an existing site?
 7. Any claims, licenses, restrictions, or compliance rules I should know about?
 8. What is the deadline?
+9. Which package are you considering: Starter ($249), Standard ($499), Priority ($799), or custom?
+10. Can payment be made before work begins once scope is confirmed, or do you need an invoice/marketplace contract?
 
 ## Asset Request
 
@@ -21,4 +23,3 @@ Please send:
 - business address only if you want it public,
 - testimonials you have permission to use,
 - booking, payment, or contact links.
-

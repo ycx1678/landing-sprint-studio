@@ -23,6 +23,15 @@ What should visitors do?
 - [ ] Register for an event
 - [ ] Other:
 
+## Package
+
+Which package are you considering?
+
+- [ ] Starter - $249
+- [ ] Standard - $499
+- [ ] Priority - $799
+- [ ] Custom quote
+
 ## Offer
 
 What are you selling or promoting?
@@ -42,7 +51,12 @@ Price or next step:
 
 Preferred delivery date:
 
+## Payment readiness
+
+- [ ] I can pay before work begins once scope is confirmed
+- [ ] I need an invoice or marketplace contract
+- [ ] I am only asking for an estimate right now
+
 ## Notes
 
 Any compliance, legal, medical, financial, or industry restrictions?
-
