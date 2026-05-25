@@ -1,0 +1,18 @@
+{
+  "audit49": {
+    "name": "$49 Landing Page Audit",
+    "price": "$49",
+    "checkoutUrl": "",
+    "fallbackUrl": "https://github.com/ycx1678/landing-sprint-studio/issues/new/choose",
+    "status": "fallback"
+  },
+  "audit99": {
+    "name": "$99 Audit + Copy",
+    "price": "$99",
+    "checkoutUrl": "",
+    "fallbackUrl": "https://github.com/ycx1678/landing-sprint-studio/issues/new/choose",
+    "status": "fallback"
+  },
+  "updatedAt": "2026-05-25"
+}
+

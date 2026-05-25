@@ -8,6 +8,7 @@ Fast, focused landing pages for small businesses, creators, consultants, and pro
 - Salon booking demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
 - Product launch demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
 - $49 audit offer: https://ycx1678.github.io/landing-sprint-studio/services/landing-page-audit/
+- $49 audit checkout bridge: https://ycx1678.github.io/landing-sprint-studio/checkout/audit/
 - Digital product page: https://ycx1678.github.io/landing-sprint-studio/products/ai-review-dm-kit/
 
 ## Packages

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Checkout · $49 Landing Page Audit</title>
+    <meta name="description" content="Start a $49 landing page audit or request a payment link.">
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" href="../../styles.css">
+  </head>
+  <body>
+    <main class="page">
+      <nav class="nav" aria-label="Checkout navigation">
+        <div class="brand">Audit Checkout</div>
+        <a href="../../services/landing-page-audit/">Back to audit</a>
+      </nav>
+
+      <section class="section checkout-panel">
+        <span class="eyebrow">One-page checkout bridge</span>
+        <h1>Start the $49 landing page audit.</h1>
+        <p class="lead" id="checkout-copy">
+          Loading the current checkout option...
+        </p>
+        <div class="actions">
+          <a class="button" id="checkout-primary" href="https://github.com/ycx1678/landing-sprint-studio/issues/new/choose">Request audit</a>
+          <a class="button secondary" href="../../services/landing-page-audit/">Review details</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>What happens next.</h2>
+        <div class="grid">
+          <article class="tile">
+            <h3>1. Send URL</h3>
+            <p>Share the landing page URL and the action you want visitors to take.</p>
+          </article>
+          <article class="tile">
+            <h3>2. Confirm Payment</h3>
+            <p>Use the checkout link when it is active, or request a manual payment link.</p>
+          </article>
+          <article class="tile">
+            <h3>3. Get Fixes</h3>
+            <p>Receive a short scorecard and five priority fixes within the target delivery window.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      const configUrl = "../../config/checkout.json";
+      const primary = document.getElementById("checkout-primary");
+      const copy = document.getElementById("checkout-copy");
+
+      async function loadCheckout() {
+        try {
+          const response = await fetch(configUrl, { cache: "no-store" });
+          const config = await response.json();
+          const offer = config.audit49 || {};
+          const checkoutUrl = (offer.checkoutUrl || "").trim();
+          const fallbackUrl = offer.fallbackUrl || "https://github.com/ycx1678/landing-sprint-studio/issues/new/choose";
+
+          if (checkoutUrl) {
+            copy.textContent = "Checkout is active. You will be sent to the secure payment page for the $49 audit.";
+            primary.textContent = "Go to secure checkout";
+            primary.href = checkoutUrl;
+            window.setTimeout(() => {
+              window.location.href = checkoutUrl;
+            }, 900);
+            return;
+          }
+
+          copy.textContent = "The payment link is not connected yet. Request the audit and I will send the payment link after confirming the page URL and scope.";
+          primary.textContent = "Request audit";
+          primary.href = fallbackUrl;
+        } catch (error) {
+          copy.textContent = "Checkout could not load. Request the audit and I will follow up with the payment link.";
+          primary.textContent = "Request audit";
+          primary.href = "https://github.com/ycx1678/landing-sprint-studio/issues/new/choose";
+        }
+      }
+
+      loadCheckout();
+    </script>
+  </body>
+</html>
+
