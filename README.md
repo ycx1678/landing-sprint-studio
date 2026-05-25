@@ -21,6 +21,10 @@ Open a request here:
 
 https://github.com/ycx1678/landing-sprint-studio/issues/new/choose
 
+Open paid slots announcement:
+
+https://github.com/ycx1678/landing-sprint-studio/issues/1
+
 ## Digital Product
 
 The `revenue-kit/ai-review-dm-kit.zip` product includes customer reply templates, AI prompt recipes, a snippet CSV, and Korean/English starter replies for small businesses.
