@@ -27,3 +27,11 @@ Submitted the new `$49 Landing Page Audit` URL after publishing the Plan B offer
 - Endpoint: `https://api.indexnow.org/indexnow`
 - Result: `200 OK`
 - New URL: https://ycx1678.github.io/landing-sprint-studio/services/landing-page-audit/
+
+## 2026-05-25 Checkout Bridge Update
+
+Submitted the new checkout bridge URL after reducing the payment bottleneck to one configurable payment link.
+
+- Endpoint: `https://api.indexnow.org/indexnow`
+- Result: `200 OK`
+- New URL: https://ycx1678.github.io/landing-sprint-studio/checkout/audit/
