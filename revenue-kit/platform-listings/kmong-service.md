@@ -43,6 +43,12 @@
 - 이미지 또는 참고 사이트
 - 공개 가능한 후기/성과
 
+포트폴리오:
+
+- 메인 오퍼: https://ycx1678.github.io/landing-sprint-studio/
+- 살롱 예약 페이지 데모: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
+- 상품 런칭 페이지 데모: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+
 ## 가격 제안
 
 - 기본형: 30만원
@@ -52,4 +58,3 @@
 ## 주의 사항
 
 의료, 법률, 금융 등 규제 산업의 확정적 효능/수익/법률 판단 문구는 작성하지 않습니다. 제공 자료에 대한 저작권과 사용 권한은 의뢰인이 확인해야 합니다.
-

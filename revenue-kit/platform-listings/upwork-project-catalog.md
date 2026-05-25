@@ -16,6 +16,12 @@ landing page, responsive website, html css, conversion copy, startup website, sm
 
 I will create a clean, responsive one-page landing page that explains your offer clearly and gives visitors one obvious next step.
 
+Portfolio:
+
+- Main offer: https://ycx1678.github.io/landing-sprint-studio/
+- Salon booking demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
+- Product launch demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+
 ## Packages
 
 ### Starter - $249
@@ -48,4 +54,3 @@ I will create a clean, responsive one-page landing page that explains your offer
 ## Client Requirements
 
 Please provide your logo, brand colors if available, product/service details, preferred CTA, images you have rights to use, and any examples you like.
-

@@ -39,6 +39,10 @@ Best for:
 
 Important: This is a communications template kit. It is not legal, medical, financial, or tax advice.
 
+Preview the companion landing page and service bundle here:
+
+https://ycx1678.github.io/landing-sprint-studio/
+
 ## Bullets
 
 - Stop rewriting the same replies every day
@@ -51,7 +55,11 @@ Important: This is a communications template kit. It is not legal, medical, fina
 
 small business, customer service, AI prompts, review replies, Instagram DM, local business, templates, ChatGPT prompts, Korean business, customer support
 
+## Upload Files
+
+- Product ZIP: `/Users/choiyunhyeok/Documents/Codex/2026-05-25/goal/revenue-kit/ai-review-dm-kit.zip`
+- Preview image: `/Users/choiyunhyeok/Documents/Codex/2026-05-25/goal/revenue-kit/assets/review-kit-preview.png`
+
 ## Refund Note
 
 Because this is a digital download, refunds are generally not available after purchase unless a file is missing or corrupted.
-

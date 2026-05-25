@@ -33,6 +33,12 @@ What you get:
 
 Please message me before ordering if you need a custom integration, regulated industry copy, payment setup, or publishing into an existing platform.
 
+Portfolio:
+
+- Main offer: https://ycx1678.github.io/landing-sprint-studio/
+- Salon booking demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
+- Product launch demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+
 ## Packages
 
 - Basic: $249, one page, up to 5 sections, 2-day delivery.
@@ -52,4 +58,3 @@ I can polish and structure your copy. Full brand strategy or long-form copywriti
 ### Can you clone another website?
 
 No. I can use references for direction, but I will create an original page.
-

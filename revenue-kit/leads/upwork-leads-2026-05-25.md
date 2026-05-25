@@ -16,7 +16,10 @@ Draft:
 ```text
 Hi, I can create the landing page for your new product as a focused one-page build with a clear headline, benefits, proof, FAQ, and one primary CTA.
 
-I recently prepared a product-launch landing page demo and can adapt the same structure to your product quickly. My workflow is: confirm the target customer and CTA, build a responsive first version, then include one revision pass before delivery.
+I recently prepared a product-launch landing page demo and can adapt the same structure to your product quickly:
+https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+
+My workflow is: confirm the target customer and CTA, build a responsive first version, then include one revision pass before delivery.
 
 One question before I estimate scope precisely: is the main goal preorder, waitlist signup, booking a demo, or direct purchase?
 ```
@@ -35,6 +38,9 @@ Hi, the 48-hour deadline is exactly the kind of sprint I handle well. I can help
 
 I would start by identifying the primary CTA, then clean up the first screen, service/offer sections, proof, FAQ, and contact flow. I can also provide concise copy rewrites as I go so the page sounds finished, not just assembled.
 
+Relevant portfolio:
+https://ycx1678.github.io/landing-sprint-studio/
+
 Do you already have the page sections drafted in Wix, or would you need the structure created from scratch?
 ```
 
@@ -49,7 +55,10 @@ Draft:
 ```text
 Hi, I can design a modern homepage for the salon booking website with a mobile-first layout, clear service paths, trust signals, and an obvious booking CTA.
 
-I prepared a salon booking landing demo with the same kind of structure: first-screen positioning, service cards, availability/booking cues, and a clean CTA flow. I can adapt that approach to your brand and booking setup.
+I prepared a salon booking landing demo with the same kind of structure: first-screen positioning, service cards, availability/booking cues, and a clean CTA flow:
+https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
+
+I can adapt that approach to your brand and booking setup.
 
 What booking tool or platform does the site need to connect to?
 ```
@@ -68,6 +77,9 @@ Hi, I can help structure and build the B2B advisory site so it feels editorial, 
 
 For a strategic advisory firm, I would focus on positioning, service clarity, proof, founder/team credibility, and a contact path that feels professional rather than pushy. I can start by turning your existing content into a clean page map, then implement the site in Squarespace.
 
+Relevant portfolio:
+https://ycx1678.github.io/landing-sprint-studio/
+
 Do you already have brand guidelines and final copy, or should the first step include content structure and copy polish?
 ```
 
@@ -85,6 +97,9 @@ Hi, I can help create a modern wellness startup site that feels calm, premium, a
 
 I would structure the site around the offer, sensory benefits, product/service proof, FAQ, and a clear CTA. I also have a small customer reply template kit that can be useful after launch if you will be handling DMs or inquiries manually.
 
+Relevant portfolio:
+https://ycx1678.github.io/landing-sprint-studio/
+
 Is this mainly a brand site, a product sales page, or a waitlist/lead capture page?
 ```
 
@@ -94,4 +109,3 @@ Is this mainly a brand site, a product sales page, or a waitlist/lead capture pa
 - Regulated medical/finance/legal claims unless the client provides approved copy.
 - Jobs requiring platform expertise you do not want to support.
 - Crowded jobs with 20-50 proposals unless the budget is high and your demo is highly relevant.
-
