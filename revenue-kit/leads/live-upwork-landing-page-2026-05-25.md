@@ -115,7 +115,55 @@ Suggested hourly rate:
 $45/hour
 ```
 
-## 3. Fix Small Issues On My Landing Page
+## 3. Modern Homepage Design for Salon Booking Website
+
+Job detail:
+
+https://www.upwork.com/freelance-jobs/apply/Modern-Homepage-Design-for-Salon-Booking-Website_~022058292363331043181/
+
+Apply URL:
+
+https://www.upwork.com/nx/proposals/job/~022058292363331043181/apply/
+
+Public details:
+
+- Posted: May 24, 2026
+- Budget: $200 fixed price
+- Experience: Intermediate
+- Skills: Figma, Web Design, Graphic Design
+- Proposals: 15 to 20
+- Client: India, member since Oct 13, 2025
+- Requested sections: hero CTA, services overview, featured salons/stylists, booking sections, testimonials/reviews, app download or contact section, responsive UI/UX
+
+Proposal:
+
+```text
+Hi, I can design the modern salon booking homepage with the exact sections you listed: hero CTA, service overview, featured salons/stylists, booking-focused blocks, testimonials, and app download/contact CTA.
+
+Relevant salon booking demo:
+https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
+
+I would approach this as a conversion homepage, not just a pretty layout. The first screen should make the booking action obvious, then the page should quickly build trust with services, stylists/salons, reviews, and mobile-friendly CTAs.
+
+Timeline: I can deliver the first homepage concept within 2 days after receiving brand direction, logo, colors, content, and any app/store links. I can deliver either editable design direction or responsive frontend code depending on what you prefer.
+
+Tools/tech: HTML/CSS/JS for responsive frontend, or Figma-style page structure if you need design files first.
+```
+
+Suggested bid:
+
+```text
+$200 fixed price
+```
+
+Milestones:
+
+```text
+Milestone 1: Homepage first version - $140
+Milestone 2: Revision and final delivery - $60
+```
+
+## 4. Fix Small Issues On My Landing Page
 
 Job detail:
 
@@ -135,7 +183,7 @@ Recommendation:
 
 Skip unless the goal is only to get a first Upwork review. The budget is too low for meaningful revenue.
 
-## 4. Figma Designer Needed - Existing Design System To New App Screens
+## 5. Figma Designer Needed - Existing Design System To New App Screens
 
 Job detail:
 
@@ -149,7 +197,7 @@ Recommendation:
 
 Skip for now. Budget is $5 and the task is app-screen Figma design, not landing page revenue.
 
-## 5. DTC eCommerce Meta Ads Figma Designer
+## 6. DTC eCommerce Meta Ads Figma Designer
 
 Job detail:
 
@@ -166,7 +214,7 @@ Secondary fit. Budget is good ($700), but the task is static ad design rather th
 ## Submission Order
 
 1. Landing Page for New Product
-2. URGENT Wix Designer & Copywriter
-3. Salon-focused leads from `beauty-salon-upwork-proposals.md`
-4. Skip $5-$10 jobs unless you explicitly want a first review
-
+2. Modern Homepage Design for Salon Booking Website
+3. URGENT Wix Designer & Copywriter
+4. Salon-focused leads from `beauty-salon-upwork-proposals.md`
+5. Skip $5-$10 jobs unless you explicitly want a first review
