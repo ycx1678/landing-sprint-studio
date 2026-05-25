@@ -7,6 +7,7 @@ Fast, focused landing pages for small businesses, creators, consultants, and pro
 - Main offer: https://ycx1678.github.io/landing-sprint-studio/
 - Salon booking demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/salon-booking/
 - Product launch demo: https://ycx1678.github.io/landing-sprint-studio/portfolio/product-launch/
+- Digital product page: https://ycx1678.github.io/landing-sprint-studio/products/ai-review-dm-kit/
 
 ## Packages
 
@@ -27,4 +28,3 @@ The `revenue-kit/ai-review-dm-kit.zip` product includes customer reply templates
 ## Boundaries
 
 I do not clone copyrighted websites, write regulated medical/legal/financial claims, manipulate reviews, send spam, or use assets without permission.
-
